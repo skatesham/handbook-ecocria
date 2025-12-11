@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://skatesham.github.io/handbook/</loc>
+         <loc>https://skatesham.github.io/handbook-ecocria/</loc>
          <lastmod>2025-12-11</lastmod>
     </url>
     <url>
-         <loc>https://skatesham.github.io/handbook/estrutura/</loc>
+         <loc>https://skatesham.github.io/handbook-ecocria/central/</loc>
          <lastmod>2025-12-11</lastmod>
     </url>
     <url>
-         <loc>https://skatesham.github.io/handbook/gestao/</loc>
+         <loc>https://skatesham.github.io/handbook-ecocria/estrutura/</loc>
          <lastmod>2025-12-11</lastmod>
     </url>
     <url>
-         <loc>https://skatesham.github.io/handbook/novos-integrantes/</loc>
+         <loc>https://skatesham.github.io/handbook-ecocria/gestao/</loc>
+         <lastmod>2025-12-11</lastmod>
+    </url>
+    <url>
+         <loc>https://skatesham.github.io/handbook-ecocria/novos-integrantes/</loc>
          <lastmod>2025-12-11</lastmod>
     </url>
 </urlset>
