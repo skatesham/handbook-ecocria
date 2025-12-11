@@ -22,11 +22,11 @@ Este guia apresenta as etapas de desenvolvimento de um novo integrante da EcoCri
 
 ---
 
-# 🪜 Etapas do Desenvolvimento do Artesão
+## 🪜 Etapas do Desenvolvimento do Artesão
 
 As fases abaixo formam um caminho claro de evolução dentro da EcoCria.
 
-## 🧭 Mapa rápido de evolução
+### 🧭 Mapa rápido de evolução
 
 | Etapa | Foco | Sinais de avanço |
 |-------|------|------------------|
@@ -134,7 +134,7 @@ As fases abaixo formam um caminho claro de evolução dentro da EcoCria.
 
 ---
 
-# 🧩 Trilhas Paralelas (opcionais conforme perfil)
+## 🧩 Trilhas Paralelas (opcionais conforme perfil)
 
 <div class="grid cards" markdown>
 
@@ -168,7 +168,7 @@ As fases abaixo formam um caminho claro de evolução dentro da EcoCria.
 
 ---
 
-# 🚀 Como Crescer Mais Rápido na EcoCria
+## 🚀 Como Crescer Mais Rápido na EcoCria
 
 !!! quote "Princípios de crescimento"
     - Perguntar sempre  

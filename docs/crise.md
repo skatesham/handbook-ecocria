@@ -4,220 +4,225 @@ Guia para diagnosticar, entender e resolver problemas antes que cresçam
 Crises fazem parte de qualquer operação.  
 A Sala de Guerra da EcoCria é o espaço mental e operacional usado quando algo ameaça a qualidade, o fluxo, o cliente, a produção ou a sustentabilidade da empresa.
 
-Ela funciona como um **mapa**: simples para quem é iniciante, sintético para quem lidera, e eficaz para qualquer situação.
+!!! abstract "Como usar esta página"
+    - **Entenda o cenário** pela analogia do barco.  
+    - **Use a versão sintética** para decisões executivas.  
+    - **Navegue pelos mapas** (setores, diagnóstico, protocolo) para agir.  
+    - **Finalize com o checklist** para garantir que nada ficou para trás.
+
+<div class="grid cards" markdown>
+
+-   :material-navigation-variant:{ .lg .middle } __Diagnosticar__  
+    Identifique sintomas, setor e impacto real.
+
+-   :material-tools:{ .lg .middle } __Responder__  
+    Aja com plano enxuto, responsáveis claros e prazos curtos.
+
+-   :material-book-cog:{ .lg .middle } __Aprender__  
+    Registre o ocorrido para fortalecer o manual vivo.
+
+</div>
 
 ---
 
-# 🛶 1. A Analogia do Barco no Mar (Explicação para Leigos)
+# 🛶 1. A Analogia do Barco no Mar
 
-Imagine que a EcoCria é um **barco navegando no mar**.
+<div class="grid cards columns-3" markdown>
 
-- A **visão** é o destino.  
-- A **equipe** são os remadores.  
-- A **produção** é o motor.  
-- O **financeiro** é o combustível.  
-- Os **clientes** são portos que precisamos visitar.  
-- A **qualidade** é o casco.  
-- A **criatividade** é o vento.
+-   :material-compass-rose:{ .lg .middle } __Visão = Destino__
 
-Uma crise é qualquer coisa que:
-- fura o casco,  
-- desvia o barco,  
-- tira o vento,  
-- reduz o combustível,  
-- ou faz os remadores se desorganizarem.
+    ---
 
-A Sala de Guerra existe para **identificar onde está o vazamento** e **consertá-lo antes de afundar**.
+    Define o rumo do barco. Sem destino, qualquer onda vira crise.
 
----
+-   :material-account-group:{ .lg .middle } __Equipe = Remadores__
 
-# 🧭 2. Versão Sintética (Para CEO e Coordenadores)
+    ---
 
-1. **Detectar o sintoma**  
-   - O que está pegando fogo?
+    Precisam remar no mesmo ritmo. Desalinhamento gera colisão.
 
-2. **Identificar o setor afetado**  
-   - Produção  
-   - Qualidade  
-   - Comercial  
-   - Financeiro  
-   - Pessoas  
-   - Criatividade/Catálogo  
-   - Operação diária  
+-   :material-engine:{ .lg .middle } __Produção = Motor__
 
-3. **Mapear causa raiz**  
-   (não resolver superficialmente)
+    ---
 
-4. **Priorizar o impacto**  
-   - Alto (imediato)  
-   - Médio (em até 48h)  
-   - Baixo (pode esperar)  
+    Mantém o barco em movimento. Se quebra, tudo para.
 
-5. **Criar plano de ação rápido**  
-   3 passos, não 20.
+-   :material-gas-station:{ .lg .middle } __Financeiro = Combustível__
 
-6. **Executar com clareza**  
-   Responsável + prazo + revisão.
+    ---
 
-7. **Registrar o aprendizado**  
-   Para evitar novas crises.
+    Sem caixa, não existe viagem.
+
+-   :material-anchor:{ .lg .middle } __Clientes = Portos__
+
+    ---
+
+    Entregas constantes garantem novas paradas.
+
+-   :material-shield-check:{ .lg .middle } __Qualidade = Casco__
+
+    ---
+
+    Protege a reputação: qualquer furo precisa de reparo imediato.
+
+</div>
+
+Crises são:
+
+- Furo no casco (qualidade)  
+- Desvio de rota (comercial/logística)  
+- Falta de vento (criatividade e pessoas)  
+- Ausência de combustível (financeiro)  
+- Remadores desorganizados (operacional)
+
+> **Função da Sala de Guerra:** localizar o vazamento e consertar antes de comprometer toda a viagem.
 
 ---
 
-# 🧨 3. Locais Onde a EcoCria Pode Falhar
+# 🧭 2. Versão Sintética (para CEO e coordenadores)
 
-Esses são pontos reais onde crises podem nascer no ateliê:
-
-## Produção
-- Falta de madeira/materiais  
-- Ferramenta quebrada  
-- Erro em lote de peças  
-- Retrabalho excessivo  
-
-## Qualidade
-- Acabamento abaixo do padrão EcoCria  
-- Peças manchadas, tortas ou assimétricas  
-- Falha no encaixe ou ergonomia  
-
-## Comercial
-- Resposta lenta a clientes  
-- Atraso em pedidos  
-- Estoque digital desatualizado  
-
-## Financeiro
-- Falta de insumos por erro de compra  
-- Sem fluxo de caixa para produção  
-- Preços mal calculados  
-
-## Pessoas
-- Mal-entendido ou tensão interna  
-- Falta de clareza nas tarefas  
-- Queda de motivação  
-
-## Criatividade / Produto
-- Catálogo desatualizado  
-- Protótipos travados  
-- Ausência de novos produtos  
-
-## Operação
-- Espaço bagunçado  
-- Falta de manutenção das máquinas  
-- CNC/laser fora de calibração  
+| Passo | Pergunta-chave | Ferramenta |
+|-------|----------------|------------|
+| 1. Detectar | O que está pegando fogo? | Canal aberto / escuta ativa |
+| 2. Setor afetado | Qual área? | Produção • Qualidade • Comercial • Financeiro • Pessoas • Criatividade • Operação |
+| 3. Causa raiz | Por que isso aconteceu? | “5 porquês” |
+| 4. Impacto | Em quanto tempo afeta o negócio? | Alto (imediato) • Médio (48h) • Baixo |
+| 5. Plano rápido | Quais 3 ações resolvem? | Sala de Guerra |
+| 6. Execução | Quem faz o quê e até quando? | Kanban + check-ins |
+| 7. Aprendizado | Como impedir repetição? | Registro no catálogo/manual |
 
 ---
 
-# 🗺️ 4. Mapa de Diagnóstico de Crise (Passo a Passo)
+# 🧨 3. Onde crises nascem (mapa rápido)
 
-## Pergunta 1 — **Qual é o sintoma visível?**
-Exemplos:
-- Cliente reclamou?  
-- Perdi material?  
-- Peça saiu errada?  
-- Não temos dinheiro para repor insumo?  
+<div class="grid cards columns-3" markdown>
 
-## Pergunta 2 — **Onde está o “furo no barco”?**
-Se enquadra em um dos 7 setores acima.
+-   :material-saw-blade:{ .lg .middle } __Produção__
 
-## Pergunta 3 — **Qual o impacto real nos próximos dias?**
-- Afeta o cliente hoje?  
-- Afeta a produção hoje?  
-- Afeta o caixa?  
-- Afeta a reputação?  
+    ---
 
-## Pergunta 4 — **Qual é a causa raiz?**
-Pergunte “por quê?” três vezes:
+    Falta de materiais, ferramentas quebradas, lotes com erro, retrabalho.
 
-Exemplo:
-- “A peça ficou ruim.”  
-  - Por quê? → Lixa errada.  
-  - Por quê? → Falta da lixa certa.  
-  - Por quê? → Não houve reposição.
+-   :material-shield-alert:{ .lg .middle } __Qualidade__
 
-A causa é **falta de reposição**, não a peça ruim.
+    ---
 
-## Pergunta 5 — **O que precisa ser feito nas próximas 24h?**
-Ações rápidas, diretas.
+    Acabamento fora do padrão, encaixes ruins, ergonomia falha.
 
-## Pergunta 6 — **Quem resolve?**
-Nome claro.  
-Nada de “alguém vê isso”.
+-   :material-store-alert:{ .lg .middle } __Comercial__
 
-## Pergunta 7 — **Como evitar que isso volte?**
-Registrar no Catálogo Vivo ou no Manual Interno.
+    ---
 
----
+    Respostas lentas, atrasos, estoque digital desatualizado.
 
-# 🛡️ 5. Protocolo EcoCria de Resolução de Crise
+-   :material-currency-usd:{ .lg .middle } __Financeiro__
 
-## Etapa 1 — Reunir Sala de Guerra (5 minutos)
-Quem entra:
-- CEO  
-- Área afetada  
-- Quem tem informação sobre o problema  
+    ---
 
-## Etapa 2 — Nomear o problema
-Frase simples:
-“Estamos com problema X, que afeta Y.”
+    Compras falhas, fluxo de caixa insuficiente, precificação errada.
 
-## Etapa 3 — Escolher o setor afetado
-Exemplo:
-- Produção  
-- Qualidade  
-- Financeiro  
+-   :material-heart-broken:{ .lg .middle } __Pessoas__
 
-## Etapa 4 — Fazer o recorte (o que NÃO é parte do problema)
-Evita tempestade mental.
+    ---
 
-## Etapa 5 — Definir ações imediatas
-Máximo 3.
+    Desalinhamento, conflitos, baixa motivação.
 
-## Etapa 6 — Dividir responsabilidades
-- Pessoa  
-- Ação  
-- Prazo  
+-   :material-palette-swatch:{ .lg .middle } __Criatividade/Produto__
 
-## Etapa 7 — Reunião de fechamento (5 minutos)
-Confirmação:
-- Foi resolvido?  
-- O que aprendemos?  
-- Onde registrar?  
+    ---
+
+    Catálogo parado, protótipos travados, ausência de novidades.
+
+-   :material-factory:{ .lg .middle } __Operação__
+
+    ---
+
+    Espaço bagunçado, máquinas sem manutenção, CNC/laser sem calibração.
+
+</div>
 
 ---
 
-# 🌊 6. Exemplos de Crises Reais Traduzidas pela Analogia do Barco
+# 🗺️ 4. Mapa de diagnóstico (checklist guiado)
 
-## Crise: atraso de pedidos
-“Estamos desviando do rumo.”  
-→ Revisar motor (produção) e remadores (comercial/atendimento).
+??? question "1. Qual é o sintoma visível?"
+    Exemplos:  
+    - Cliente reclamou  
+    - Lote perdido  
+    - Falta de insumo  
+    - Ferramenta parou
 
-## Crise: peças saindo com qualidade irregular
-“Há um furo no casco.”  
-→ Revisar acabamento e padrões.
+??? question "2. Onde está o “furo no barco”?"
+    Associe aos 7 setores do mapa anterior.
 
-## Crise: estoque de madeira acabou
-“Estamos ficando sem combustível.”  
-→ Falha financeira ou falha de compras.
+??? question "3. Qual o impacto real nos próximos dias?"
+    - Afeta cliente agora?  
+    - Paralisa produção?  
+    - Compromete caixa?  
+    - Danifica reputação?
 
-## Crise: artesão desmotivado
-“O vento da criatividade diminuiu.”  
-→ Reativar quarta criativa e reduzir sobrecarga.
+??? question "4. Qual é a causa raiz?"
+    Use 3 “por quês” até chegar à origem real.  
+    Ex.: peça ruim → lixa errada → falta de reposição → **problema é compras**, não acabamento.
 
-## Crise: CNC parou
-“A bússola travou.”  
-→ Manutenção preventiva falhou.
+??? question "5. O que precisa acontecer nas próximas 24h?"
+    Apenas ações rápidas e concretas.
+
+??? question "6. Quem resolve?"
+    Nome + prazo. Nada de “alguém”.
+
+??? question "7. Como evitar repetição?"
+    Registrar aprendizado no Catálogo Vivo ou no handbook.
 
 ---
 
-# 🧩 7. Checklist de Crise EcoCria (Rápido)
+# 🛡️ 5. Protocolo EcoCria
 
-- [ ] Qual é o problema real?  
-- [ ] Em qual setor aconteceu?  
-- [ ] Qual o impacto imediato?  
-- [ ] Já identifiquei a causa raiz?  
-- [ ] Quais são as 3 ações rápidas?  
-- [ ] Quem é responsável por cada ação?  
-- [ ] Quando revisaremos a solução?  
-- [ ] Onde registrar o aprendizado?  
+| Etapa | Foco | Resultado |
+|-------|------|-----------|
+| 1. Sala de Guerra | CEO + área afetada + quem sabe do problema | Todos ouvindo o mesmo relato |
+| 2. Nomear o problema | Frase simples: “X está afetando Y” | Clareza imediata |
+| 3. Escolher setor | Produção • Qualidade • Comercial • Financeiro • Pessoas • Criatividade • Operação | Evita soluções genéricas |
+| 4. Fazer recorte | O que não faz parte desta crise? | Tira ruído |
+| 5. Definir até 3 ações | Intervenções em 24h | Ação realista |
+| 6. Dividir responsabilidades | Pessoa + ação + prazo | Compromisso explícito |
+| 7. Fechamento (5 min) | Foi resolvido? O que aprendemos? | Registro e prevenção |
+
+---
+
+# 🌊 6. Exemplos traduzidos
+
+<div class="grid cards columns-2" markdown>
+
+-   :material-map-marker-question:{ .lg .middle } __Atraso de pedidos__  
+    “Desvio de rota” → revisar motor (produção) e remadores (comercial).
+
+-   :material-shield-alert:{ .lg .middle } __Qualidade irregular__  
+    “Furo no casco” → inspecionar acabamento e padrões.
+
+-   :material-gas-station-off:{ .lg .middle } __Acabou madeira__  
+    “Sem combustível” → compras/financeiro falharam.
+
+-   :material-weather-windy:{ .lg .middle } __Artesão desmotivado__  
+    “Sem vento criativo” → reativar quarta criativa e equilibrar carga.
+
+-   :material-crosshairs-gps:{ .lg .middle } __CNC parou__  
+    “Bússola travada” → manutenção preventiva ausente.
+
+</div>
+
+---
+
+# 🧩 7. Checklist rápido
+
+- [ ] Problema real descrito em uma frase  
+- [ ] Setor afetado definido  
+- [ ] Impacto imediato classificado  
+- [ ] Causa raiz investigada (3 “por quês”)  
+- [ ] Ações rápidas listadas (máx. 3)  
+- [ ] Responsáveis e prazos definidos  
+- [ ] Reunião de fechamento agendada  
+- [ ] Aprendizado registrado no handbook
 
 ---
 
