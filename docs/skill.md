@@ -16,64 +16,89 @@ A regra é simples:
 
 # 🪵 1. Materiais EcoCria
 
-## 1.1 Madeiras Utilizadas
-(Com base na produção real EcoCria/HauxOhm)
+### Madeiras principais
 
-- Cedro — leve, aromático, ótimo para kuripes, tepis e amuletos.  
-- Roxinho — alta dureza, cor vibrante, ideal para peças premium.  
-- Peroba / Ipê / Cumaru — resistentes e duráveis para peças estruturais.  
-- Madeiras sagradas e aromáticas — utilizadas em objetos ritualísticos.  
-- Madeiras reaproveitadas — reforçam o compromisso ambiental.
+<div class="grid cards columns-2" markdown>
 
-## 1.2 Pedras & Elementos Naturais
+-   :material-leaf:{ .lg .middle } **Cedro**
 
-- Apliques energéticos (chakras, yantras, símbolos).  
-- Inserções decorativas com resina, terra, areia ou pedra.  
+    ---
 
-## 1.3 Insumos de Acabamento
+    Leve, aromático e ideal para kuripes, tepis e amuletos delicados.
 
-- Óleos naturais da linha Manavitae.  
-- Acabamento fosco premium (identidade visual EcoCria).  
-- Resinas leves para preenchimentos simbólicos.  
+-   :material-palette:{ .lg .middle } **Roxinho**
+
+    ---
+
+    Madeira densa, com cor vibrante e presença premium em peças assinatura.
+
+-   :material-pillar:{ .lg .middle } **Peroba / Ipê / Cumaru**
+
+    ---
+
+    Usadas em peças estruturais, com alta resistência e durabilidade.
+
+-   :material-recycle:{ .lg .middle } **Madeiras reaproveitadas/aromáticas**
+
+    ---
+
+    Sustentabilidade viva: reaproveitamos materiais com história e aroma natural.
+
+</div>
+
+### Pedras & elementos
+
+<div class="grid cards columns-2" markdown>
+
+-   :material-shape-outline:{ .lg .middle } **Apliques decorativos**
+
+    ---
+
+    Símbolos, padrões gráficos e elementos naturais integrados às peças.
+
+-   :material-texture:{ .lg .middle } **Inserções com textura**
+
+    ---
+
+    Resina, terra, areia ou pedra criam contraste visual e sensorial.
+
+</div>
+
+### Insumos de acabamento
+
+<div class="grid cards columns-2" markdown>
+
+-   :material-water:{ .lg .middle } **Óleo de peroba (e outros naturais)**
+
+    ---
+
+    Hidrata, protege e destaca o veio da madeira com perfume leve.
+
+-   :material-spray:{ .lg .middle } **Acabamento fosco EcoCria**
+
+    ---
+
+    Padrão visual da marca, combinando elegância e toque artesanal.
+
+-   :material-glass-stange:{ .lg .middle } **Resinas pontuais**
+
+    ---
+
+    Usadas apenas onde é preciso preencher ou criar detalhe brilhante.
+
+</div>
 
 ---
 
 # ⚙️ 2. Técnicas EcoCria
 
-## 2.1 CNC Router
-
-- Criação de formas geométricas complexas.  
-- Produção de peças estruturais com precisão.  
-- Padronização para feiras e vendas online.  
-- Fluxo digital otimizado: desenho → CAM → CNC → acabamento manual.  
-- Técnicas práticas: passes progressivos, controle de vibração, redução de linhas.
-
-## 2.2 Laser CO₂ / Fiber
-
-- Gravações simbólicas (chakras, yantras, padrões geométricos).  
-- Marcação de identidade EcoCria / Manavitae.  
-- Corte de peças finas para composições e camadas.  
-- Criação de gabaritos auxiliares para produção manual.
-
-## 2.3 Esculpimento Manual
-
-- Refinamento estético pós-CNC.  
-- Ergonomia (curvas, bicos, encaixes anatômicos).  
-- Entalhe fino onde máquinas não alcançam.  
-- É parte da assinatura artística EcoCria.
-
-## 2.4 Machetaria & Inlay
-
-- Inserção de pedras, resina ou madeira contrastante.  
-- Criação de padrões simbólicos e energéticos.  
-- Mistura de materiais que reforça narrativa visual.
-
-## 2.5 Acabamento EcoCria
-
-- Lixamento em múltiplas etapas.  
-- Hidratação com óleos naturais energéticos.  
-- Polimento orgânico mantendo toque artesanal.  
-- Padronização de tons conforme identidade Manavitae/EcoCria.
+| Técnica | Onde é aplicada | Destaques |
+|---------|----------------|-----------|
+| **CNC Router** | Estrutura, repetição, encaixes | Fluxo digital (desenho → CAM → CNC → acabamento), passes progressivos, controle de vibração. |
+| **Laser CO₂ / Fiber** | Gravação e cortes finos | Símbolos/padrões geométricos, marcação da identidade EcoCria, criação de gabaritos. |
+| **Esculpimento Manual** | Refinamento pós-máquina | Ergonomia, curvas e encaixes anatômicos, entalhe em áreas que a máquina não alcança. |
+| **Machetaria & Inlay** | Detalhes e contraste | Inserção de pedras/resinas/madeiras contrastantes, narrativa visual. |
+| **Acabamento EcoCria** | Finalização | Lixamento em múltiplas etapas, óleos naturais, polimento orgânico, tons alinhados à marca. |
 
 ---
 
@@ -81,15 +106,17 @@ A regra é simples:
 
 ## 3.1 Fluxo Geral EcoCria
 
-- Conceito — significado espiritual, energético ou geométrico.  
-- Desenho — estética minimalista, poucos traços, alta intenção.  
-- Digitalização — modelos 2D/3D e rotas otimizadas.  
-- Pré-corte — CNC ou laser conforme a peça.  
-- Esculpimento manual — refinamento, ergonomia e identidade.  
-- Machetaria — detalhes premium e simbólicos.  
-- Acabamento — óleos, resinas, polimento.  
-- Fotografia & catálogo — identidade visual Manavitae/EcoCria.  
-- Divulgação — feiras, redes e vendas online.
+| Etapa | Foco | Resultado |
+|-------|------|-----------|
+| Conceito | Uso, contexto e estética (função + natureza) | Brief simples |
+| Desenho | Estética minimalista, poucos traços | Base visual |
+| Digitalização | Modelos 2D/3D + rotas otimizadas | Arquivo pronto |
+| Pré-corte | CNC ou laser conforme a peça | Peças brutas |
+| Esculpimento | Refinamento manual, ergonomia | Toque autoral |
+| Machetaria | Detalhes visuais e contraste | Identidade forte |
+| Acabamento | Óleos, resinas, polimento | Proteção + textura |
+| Fotografia & catálogo | Identidade EcoCria | Registro para venda |
+| Divulgação | Feiras, redes, vendas online | Produtos no mundo |
 
 ---
 
@@ -97,27 +124,74 @@ A regra é simples:
 
 ## 4.1 Técnicas emergentes observadas na EcoCria
 
-- Geometrias triangulares e quânticas (inspiradas em loaders e animações).  
-- Aplicações de camadas energéticas (chakras) em cores e acabamentos.  
-- Mistura estratégica de madeira + símbolos + resina mínima.  
-- Produtos com narrativa espiritual, minimalista e sofisticada.
+<div class="grid cards columns-2" markdown>
+
+-   :material-forest:{ .lg .middle } **Formas & referências**
+
+    ---
+
+    Inspiração na natureza + repertório contemporâneo para criar geometria viva.
+
+-   :material-layers:{ .lg .middle } **Camadas de cor & acabamento**
+
+    ---
+
+    Sobreposições de cor e textura para gerar profundidade e contraste.
+
+-   :material-invert-colors:{ .lg .middle } **Mix madeira + símbolos + resina mínima**
+
+    ---
+
+    Equilíbrio entre elementos naturais e recursos visuais leves.
+
+-   :material-book-open-page-variant:{ .lg .middle } **Narrativa EcoCria**
+
+    ---
+
+    Produtos guiados por uso diário, estética minimalista e conexão com a natureza.
+
+</div>
 
 ## 4.2 Potenciais para expansão
 
-- Peças modulares e componíveis.  
-- Arte interativa (encaixes, movimento, magnetismos).  
-- Amuletos com simbologia inspirada no Cerrado.  
-- Assinaturas energéticas: frequências (528Hz), fractais, aura.
+<div class="grid cards columns-2" markdown>
+
+-   :material-view-grid-plus:{ .lg .middle } **Peças modulares**  
+    Conjuntos componíveis que se adaptam a diferentes ambientes.
+
+-   :material-gesture-double-tap:{ .lg .middle } **Arte interativa**  
+    Encaixes, movimento e uso de ímãs quando fizer sentido funcional.
+
+-   :material-weather-sunny:{ .lg .middle } **Inspiração Cerrado**  
+    Amuletos e objetos que traduzem flora e paisagens brasileiras.
+
+-   :material-signature:{ .lg .middle } **Assinaturas visuais**  
+    Padrões recorrentes, texturas e proporções reconhecíveis da marca.
+
+</div>
 
 ---
 
 # 🧭 5. Filosofia EcoCria
 
-- Sofisticação com mínima complexidade — poucos traços, máximo impacto.  
-- Madeira como ser vivo — textura, história e origem importam.  
-- Tecnologia como extensão da mão — CNC e laser amplificam, não substituem.  
-- Alto padrão de qualidade — acabamento é identidade.  
-- Criação com propósito — cada peça carrega significado.  
+<div class="grid cards columns-2" markdown>
+
+-   :material-pen:{ .lg .middle } **Sofisticação simples**  
+    Poucos traços, máximo impacto visual.
+
+-   :material-tree-outline:{ .lg .middle } **Madeira viva**  
+    Textura, história e origem importam em cada peça.
+
+-   :material-chip:{ .lg .middle } **Tecnologia como extensão**  
+    CNC e laser amplificam a mão artesanal, não a substituem.
+
+-   :material-seal-variant:{ .lg .middle } **Excelência no acabamento**  
+    Finalização impecável é identidade da marca.
+
+-   :material-compass-outline:{ .lg .middle } **Criação com propósito**  
+    Cada peça nasce com significado e função claros.
+
+</div>
 
 ---
 
