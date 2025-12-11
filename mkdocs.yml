@@ -1,0 +1,64 @@
+site_name: Ecocria Handbook
+site_description: Central de conhecimento e cultura da Ecocria
+site_url: https://ecocria.github.io/handbook
+
+theme:
+  name: material
+  logo: assets/logo.png
+  favicon: assets/favicon.ico
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - content.code.copy
+    - search.suggest
+    - search.highlight
+  font:
+    text: Inter
+    code: JetBrains Mono
+  palette:
+    - scheme: default
+      primary: teal
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: Mudar para modo escuro
+    - scheme: slate
+      primary: teal
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Mudar para modo claro
+  icon:
+    logo: material/flower
+    repo: fontawesome/brands/github
+  language: pt-BR
+
+plugins:
+  - search
+
+markdown_extensions:
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - admonition
+  - pymdownx.details
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - tables
+  - attr_list
+  - md_in_html
+
+nav:
+  - "🏠 Início": index.md
+  - "🌱 Novos Integrantes": novos-integrantes.md
+  - "🏢 Estrutura Organizacional": estrutura.md
+
+repo_url: https://github.com/ecocria/handbook
+repo_name: handbook-ecocria
