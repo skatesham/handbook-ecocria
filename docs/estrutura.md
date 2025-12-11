@@ -1,264 +1,251 @@
-# **EcoCria — Estrutura Organizacional**
+# 🌿 EcoCria — Estrutura Organizacional
 
-Este documento apresenta a estrutura organizacional oficial da EcoCria, organizada em quatro níveis: **Estratégico**, **Tático**, **Gerencial** e **Operacional**.
-A organização foi desenhada para refletir o caráter artesanal, criativo e sustentável da empresa, mantendo simplicidade, clareza e eficiência.
+Esta página apresenta a estrutura oficial da EcoCria, construída para ser leve, clara e prática.  
+A empresa funciona com poucos níveis, mas cada um tem papel essencial para manter:
 
----
+- Criatividade ativa  
+- Operação organizada  
+- Catálogo atualizado  
+- Vendas constantes  
+- Sustentabilidade financeira  
+- Cultura saudável  
 
-## **Visão Geral**
-
-A estrutura da EcoCria foi construída para garantir:
-
-* Clareza na responsabilidade de cada área
-* Fluidez entre criação, produção e venda
-* Alinhamento entre visão artística e gestão profissional
-* Sustentabilidade financeira e cultural
-
-A organização é enxuta, mas cobre todas as áreas essenciais da empresa.
+A estrutura foi desenhada para ser simples, funcional e fácil de manter no dia a dia.
 
 ---
 
-## **Pirâmide Organizacional**
+## 🧱 Visão Geral da Estrutura
+
+A EcoCria trabalha com **4 níveis reais**:
+
+1. **Estratégico** — visão, direção e decisões de impacto  
+2. **Tático** — organização de áreas e prioridades  
+3. **Gerencial** — supervisão do fluxo diário  
+4. **Operacional** — execução artesanal e atendimento  
+
+Esses níveis se adaptam à realidade da empresa: uma mesma pessoa pode ocupar mais de um papel, desde que exista clareza de responsabilidade.
+
+---
+
+## 🏛️ Níveis da Estrutura
 
 ```mermaid
 graph TB
-    %% -------------------------
-    %% NÍVEL ESTRATÉGICO
-    %% -------------------------
+    %% ================= NÍVEL ESTRATÉGICO =================
     CEO[🌿 CEO<br/>Direção & Estratégia]
 
-    %% Filhos estratégicos (Áreas Táticas)
-    CEO --> PROD_TAT[🪵 Coord. de Operações & Produção]
-    CEO --> DESIGN_TAT[🎨 Coord. de Produto & Design]
+    %% Filhos Estratégicos → Áreas Táticas
+    CEO --> PROD_TAT[🪵 Coord. Operações & Produção]
+    CEO --> PRODUTO_TAT[🎨 Coord. Produto & Catálogo Digital]
     CEO --> COM_TAT[🛒 Coord. Comercial & Distribuição]
     CEO --> FIN_TAT[💰 Coord. Financeiro & Compras]
     CEO --> PESS_TAT[❤️ Coord. Pessoas & Cultura]
 
-    %% -------------------------
-    %% NÍVEL TÁTICO  → GERENCIAL
-    %% -------------------------
+    %% ================= NÍVEL TÁTICO → GERENCIAL =================
     PROD_TAT --> PROD_GER[🛠️ Supervisor de Produção]
-    PROD_TAT --> QUALI_GER[🔍 Supervisor de Qualidade & Acabamento]
+    PROD_TAT --> QUALI_GER[🔍 Supervisor de Qualidade]
 
-    DESIGN_TAT --> DESIGN_GER[✨ Supervisor de Design & Protótipos]
+    PRODUTO_TAT --> FOTO_GER[📷 Supervisor de Fotografia & Atualização de Produtos]
 
-    COM_TAT --> COM_GER[📦 Supervisor Comercial & Logística]
+    COM_TAT --> COM_GER[📦 Supervisor Comercial & Envios]
 
     FIN_TAT --> FIN_GER[📋 Supervisor Financeiro]
 
-    PESS_TAT --> PESS_GER[🌱 Supervisor de Rotina & Cultura]
+    PESS_TAT --> ROTINA_GER[🌱 Supervisor de Rotina & Bem-Estar]
 
-    %% -------------------------
-    %% NÍVEL GERENCIAL → OPERACIONAL
-    %% -------------------------
-    PROD_GER --> ARTESAOS[🔨 Artesãos / Produção]
-    PROD_GER --> MATERIAIS[🪚 Corte & Preparação de Materiais]
-
+    %% ================= NÍVEL GERENCIAL → OPERACIONAL =================
+    PROD_GER --> ARTESAOS[🔨 Artesãos & Execução]
     QUALI_GER --> ACABA[🧴 Acabamento & Embalagem]
 
-    DESIGN_GER --> FOTOS[📷 Fotografia & Catálogo Digital]
+    FOTO_GER --> DIGITAL[🖼️ Catalogação Digital & Atualização de Preços]
 
     COM_GER --> ATEND[💬 Atendimento & Mensagens]
-    COM_GER --> ENVIO[📮 Preparação de Pedidos & Envios]
+    COM_GER --> ENVIO[📮 Preparação de Pedidos]
     COM_GER --> FEIRA[🛍️ Banca de Feiras]
 
     FIN_GER --> REG_FIN[📝 Registro Financeiro]
-    FIN_GER --> CUSTOS[💲 Apuração de Custos & Estoque]
+    FIN_GER --> CUSTOS[💲 Custos & Controle de Estoque]
 
-    PESS_GER --> ROTINA[📅 Organização de Rotina]
-    PESS_GER --> SEG_ATELIER[🧯 Segurança no Ateliê]
+    ROTINA_GER --> SEG_ATELIER[🧯 Segurança & Organização]
 
-    %% ============================================================
-    %% ======================== ESTILO =============================
-    %% ============================================================
-
-    %% Estratégico - Azul Claro
+    %% ================= CORES =================
+    %% Estratégico
     style CEO fill:#e3f2fd,stroke:#1976d2,stroke-width:3px,color:#000
 
-    %% Tático - Verde Claro
+    %% Tático
     style PROD_TAT fill:#e8f5e9,stroke:#43a047,stroke-width:2px,color:#000
-    style DESIGN_TAT fill:#e8f5e9,stroke:#43a047,stroke-width:2px,color:#000
+    style PRODUTO_TAT fill:#e8f5e9,stroke:#43a047,stroke-width:2px,color:#000
     style COM_TAT fill:#e8f5e9,stroke:#43a047,stroke-width:2px,color:#000
     style FIN_TAT fill:#e8f5e9,stroke:#43a047,stroke-width:2px,color:#000
     style PESS_TAT fill:#e8f5e9,stroke:#43a047,stroke-width:2px,color:#000
 
-    %% Gerencial - Amarelo Claro
+    %% Gerencial
     style PROD_GER fill:#fff9c4,stroke:#f9a825,stroke-width:2px,color:#000
     style QUALI_GER fill:#fff9c4,stroke:#f9a825,stroke-width:2px,color:#000
-    style DESIGN_GER fill:#fff9c4,stroke:#f9a825,stroke-width:2px,color:#000
+    style FOTO_GER fill:#fff9c4,stroke:#f9a825,stroke-width:2px,color:#000
     style COM_GER fill:#fff9c4,stroke:#f9a825,stroke-width:2px,color:#000
     style FIN_GER fill:#fff9c4,stroke:#f9a825,stroke-width:2px,color:#000
-    style PESS_GER fill:#fff9c4,stroke:#f9a825,stroke-width:2px,color:#000
+    style ROTINA_GER fill:#fff9c4,stroke:#f9a825,stroke-width:2px,color:#000
 
-    %% Operacional - Laranja Claro
+    %% Operacional
     style ARTESAOS fill:#ffe0b2,stroke:#fb8c00,stroke-width:1px,color:#000
-    style MATERIAIS fill:#ffe0b2,stroke:#fb8c00,stroke-width:1px,color:#000
     style ACABA fill:#ffe0b2,stroke:#fb8c00,stroke-width:1px,color:#000
-    style FOTOS fill:#ffe0b2,stroke:#fb8c00,stroke-width:1px,color:#000
+    style DIGITAL fill:#ffe0b2,stroke:#fb8c00,stroke-width:1px,color:#000
     style ATEND fill:#ffe0b2,stroke:#fb8c00,stroke-width:1px,color:#000
     style ENVIO fill:#ffe0b2,stroke:#fb8c00,stroke-width:1px,color:#000
     style FEIRA fill:#ffe0b2,stroke:#fb8c00,stroke-width:1px,color:#000
     style REG_FIN fill:#ffe0b2,stroke:#fb8c00,stroke-width:1px,color:#000
     style CUSTOS fill:#ffe0b2,stroke:#fb8c00,stroke-width:1px,color:#000
-    style ROTINA fill:#ffe0b2,stroke:#fb8c00,stroke-width:1px,color:#000
     style SEG_ATELIER fill:#ffe0b2,stroke:#fb8c00,stroke-width:1px,color:#000
+
 ```
 
----
 
-## **Descrição dos Níveis**
+### **1. Estratégico**
+Responsável pela visão, identidade, direcionamento e sustentabilidade da EcoCria.  
+É onde se definem:
 
-### **3.1 — Estratégico (CEO / Direção)**
-
-Responsável por visão, metas, decisões e sustentabilidade de longo prazo.
-Define os rumos da EcoCria, o portfólio de produtos, parcerias e posicionamento.
-
----
-
-### **3.2 — Tático (Coordenação das Áreas)**
-
-Transforma a estratégia em planejamento concreto.
-Cuida de ciclos de produção, calendário criativo, ações comerciais e controle financeiro.
-
-Áreas táticas incluem:
-
-* Operações & Produção
-* Produto & Design
-* Comercial & Distribuição
-* Financeiro & Compras
-* Pessoas & Cultura
+- Portfólio principal  
+- Identidade estética  
+- Metas anuais  
+- Parcerias e posicionamento  
+- Caminhos para inovação  
 
 ---
 
-### **3.3 — Gerencial (Supervisão)**
+### **2. Tático**
+Transforma a estratégia em planos práticos.  
+Inclui as coordenações:
 
-Garante que o dia a dia flua sem bloqueios.
-Acompanha prazos, qualidade, comunicação com clientes e organização do atelier.
+- **Operações & Produção**  
+- **Produto & Catálogo Digital**  
+- **Comercial & Distribuição**  
+- **Financeiro & Compras**  
+- **Pessoas & Cultura**  
 
----
-
-### **3.4 — Operacional (Execução)**
-
-Execução direta do trabalho artesanal, atendimento e logística.
-É onde a EcoCria acontece de forma concreta.
-
----
-
-## **Cargos e Responsabilidades Detalhadas**
-
-### **Nível Estratégico**
-
-#### **• CEO / Diretor Geral**
-
-* Define visão, metas, prioridades e calendário anual
-* Aprova portfólio, protótipos principais e identidade geral
-* Garante sustentabilidade financeira
-* Cria parcerias e oportunidades de crescimento
-* Remove bloqueios entre áreas
+É o nível que organiza prioridades, fluxos, calendários e orienta a execução.
 
 ---
 
-### **Nível Tático**
+### **3. Gerencial**
+Garante fluidez do dia a dia.  
+Supervisores cuidam de:
 
-#### **• Coordenador de Operações & Produção**
+- Qualidade  
+- Prazos  
+- Estoque  
+- Catálogo digital  
+- Atendimento e envios  
+- Rotina do ateliê  
 
-* Planeja ciclos produtivos
-* Define padrões mínimos de qualidade e materiais
-* Organiza fluxo do atelier
-
-#### **• Coordenador de Produto & Design**
-
-* Cria protótipos e novas linhas
-* Mantém coerência estética da marca
-* Desenvolve embalagens e storytelling
-
-#### **• Coordenador Comercial & Distribuição**
-
-* Planeja vendas, feiras e campanhas
-* Define políticas comerciais e kits
-* Garante oferta ideal nos canais digitais
-
-#### **• Coordenador Financeiro & Compras**
-
-* Planeja fluxo de caixa
-* Garante reposição de materiais
-* Mantém custos alinhados com margens desejadas
-
-#### **• Coordenador de Pessoas & Cultura**
-
-* Mantém rotina saudável e alinhamento da equipe
-* Cria rituais simples de cultura
-* Organiza treinamentos curtos e comunicação interna
+Faz a ponte entre planejamento e execução.
 
 ---
 
-### **Nível Gerencial**
+### **4. Operacional**
+Onde a EcoCria acontece de forma concreta:
 
-#### **• Supervisor de Produção**
-
-* Acompanha execução diária
-* Organiza materiais e ferramentas
-* Garante cumprimento de prazos
-
-#### **• Supervisor de Qualidade & Acabamento**
-
-* Verifica acabamento final
-* Mantém padrões artesanais da marca
-* Prepara produtos para embalagem e envio
-
-#### **• Supervisor Comercial**
-
-* Acompanha pedidos
-* Responde clientes
-* Organiza logística de envios e estoque online
-
-#### **• Supervisor Financeiro**
-
-* Registra movimentações
-* Mantém custos e inventário atualizados
-* Prepara dados para análise estratégica
+- Artesãos & produção manual  
+- Corte, montagem e lixamento  
+- Acabamento & embalagem  
+- Atendimento ao cliente  
+- Feiras e eventos  
+- Logística de envios  
+- Fotografia simples  
+- Atualização de catálogo e preços  
 
 ---
 
-### **Nível Operacional**
+## 📦 Responsabilidades por Área
 
-#### **• Artesão / Produção Manual**
+### 🪵 Operações & Produção
+- Planejar lotes  
+- Garantir fluxo de materiais  
+- Organizar o espaço e ferramentas  
+- Gerenciar ritmo e prazos  
 
-* Executa montagem, corte, lixamento, acabamento
-* Mantém ritmo, organização e qualidade
+### 🎨 Produto & Catálogo Digital
+- Criar novos modelos e protótipos  
+- Ajustar produtos existentes  
+- Padronizar medidas, descrições e fotos  
+- Atualizar catálogo, preços e variações  
+- Integrar criação + comercial  
+- Manter registro digital organizado  
 
-#### **• Acabamento & Embalagem**
+### 🛒 Comercial & Distribuição
+- Atendimento rápido e profissional  
+- Processamento de pedidos  
+- Embalagem e envios  
+- Organização de banca para feiras  
+- Reposição de estoque online  
+- Controle simples de prazos e conversões  
 
-* Realiza polimento, inspeção e embalagem final
+### 💰 Financeiro & Compras
+- Registro de entradas e saídas  
+- Controle de custos e margens  
+- Planejamento de reposição  
+- Avaliação de melhores fornecedores  
+- Apoio direto ao CEO nas decisões de preço  
 
-#### **• Logística Interna**
-
-* Separa materiais
-* Organiza suprimentos
-* Prepara cargas para feiras e envios
-
-#### **• Comercial Operacional**
-
-* Publica anúncios, responde clientes
-* Embala pedidos e envia
-* Auxilia na banca em feiras
-
-#### **• Suporte Digital**
-
-* Fotografa produtos
-* Atualiza catálogo
-* Mantém descrições e preços online
+### ❤️ Pessoas & Cultura
+- Manter clima e ritmo saudável  
+- Zelar pela segurança e organização do ateliê  
+- Criar rituais simples (segunda/quarta/sexta)  
+- Dar clareza das prioridades semanais  
 
 ---
 
-## **Uso da Estrutura na Gestão**
+## 🗓️ Rotina Inteligente de Gestão (Simples e Leve)
 
-* Cada tarefa no Kanban deve receber uma **etiqueta da área correspondente**.
-* Cada nível da pirâmide define **quem decide, quem planeja, quem supervisiona e quem executa**.
-* A estrutura é flexível: uma mesma pessoa pode ocupar múltiplos papéis, desde que haja clareza.
-* Serve como base para:
+### **Segunda — Alinhamento (10–15 min)**
+- 3 prioridades da semana  
+- Revisão rápida de pendências  
+- Distribuição simples de responsabilidades  
 
-  * divisão de responsabilidades,
-  * rituais semanais,
-  * KPIs simples por área,
-  * onboarding de novos colaboradores.
+### **Quarta — Momento Criativo**
+- Prototipagem  
+- Ajuste de modelos  
+- Atualização de catálogo  
+- Fotografia e descrição de novos produtos  
+
+### **Sexta — Fechamento (10 min)**
+- O que avançou / não avançou  
+- Pontos de melhoria  
+- Preparação para a próxima semana  
+
+### Sábado e Domingo — **Descanso obrigatório**
+Criatividade e qualidade exigem oxigênio.
+
+---
+
+## 🎯 Como Usar a Estrutura no Dia a Dia
+
+- Cada tarefa no Kanban recebe **apenas 1 etiqueta** correspondente à área.  
+- As decisões do CEO se concentram em:
+  - portfólio,
+  - padrões de qualidade,
+  - parcerias,
+  - foco da semana e do mês.  
+- Supervisão deve ser leve, mas contínua.  
+- Catálogo digital deve ser atualizado sempre que:
+  - nasce um novo produto,  
+  - modelo muda,  
+  - fotos são renovadas,  
+  - preço é ajustado.  
+- A estrutura é **viva**: ajusta conforme a EcoCria cresce.  
+
+---
+
+## 🌱 Essência da Organização
+
+- **Simplicidade é força.**  
+- **Criatividade é um recurso estratégico.**  
+- **Fluxo organizado sustenta a produtividade.**  
+- **Tecnologia leve (catálogo, fotos, inventário simples) é suficiente para operar bem.**  
+- **Clareza evita retrabalho, tensão e perda de foco.**
+
+---
+
+<p align="center">
+  🌿 <strong>EcoCria</strong> — Organização simples, criativa e funcional.
+</p>

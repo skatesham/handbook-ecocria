@@ -59,6 +59,7 @@ nav:
   - "🏠 Início": index.md
   - "🌱 Novos Integrantes": novos-integrantes.md
   - "🏢 Estrutura Organizacional": estrutura.md
+  - "🧭 Gestão da EcoCria": gestao.md
 
 repo_url: https://github.com/ecocria/handbook
 repo_name: handbook-ecocria
