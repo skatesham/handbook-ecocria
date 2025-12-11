@@ -1,6 +1,6 @@
 site_name: Ecocria Handbook
 site_description: Central de conhecimento e cultura da Ecocria
-site_url: https://skatesham.github.io/handbook
+site_url: https://skatesham.github.io/handbook-ecocria
 
 theme:
   name: material
@@ -60,6 +60,7 @@ nav:
   - "🌱 Novos Integrantes": novos-integrantes.md
   - "🏢 Estrutura Organizacional": estrutura.md
   - "🧭 Gestão da EcoCria": gestao.md
+  - "🔥 Central de Inteligência": central.md
 
-repo_url: https://github.com/skatesham/handbook
+repo_url: https://github.com/skatesham/handbook-ecocria
 repo_name: handbook-ecocria

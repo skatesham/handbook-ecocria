@@ -1,29 +1,74 @@
 # 🌿 EcoCria — Estrutura Organizacional
 
-Esta página apresenta a estrutura oficial da EcoCria, construída para ser leve, clara e prática.  
-A empresa funciona com poucos níveis, mas cada um tem papel essencial para manter:
+Esta página apresenta a estrutura oficial da EcoCria, construída para ser leve, clara e prática.
 
-- Criatividade ativa  
-- Operação organizada  
-- Catálogo atualizado  
-- Vendas constantes  
-- Sustentabilidade financeira  
-- Cultura saudável  
+!!! abstract "Para que serve esta estrutura?"
+    - Garantir **criatividade ativa** sem perder o controle operacional  
+    - Manter **catálogo e vendas** em evolução constante  
+    - Preservar **sustentabilidade financeira e cultural**  
+    - Dar clareza de **papéis e responsabilidades**
 
-A estrutura foi desenhada para ser simples, funcional e fácil de manter no dia a dia.
+<div class="grid cards" markdown>
+
+-   :material-sprout:{ .lg .middle } __Criatividade Ativa__
+
+    ---
+
+    Fluxo contínuo de ideias, protótipos e atualização estética.
+
+-   :material-cog-play:{ .lg .middle } __Operação Organizada__
+
+    ---
+
+    Produção, estoque e logística com cadência simples e repetível.
+
+-   :material-storefront:{ .lg .middle } __Catálogo Vivo__
+
+    ---
+
+    Produtos, preços e fotos atualizados em todos os canais.
+
+-   :material-heart:{ .lg .middle } __Cultura Saudável__
+
+    ---
+
+    Relacionamentos íntegros, ritmo sustentável e visão comum.
+
+</div>
 
 ---
 
 ## 🧱 Visão Geral da Estrutura
 
-A EcoCria trabalha com **4 níveis reais**:
+<div class="grid cards columns-2" markdown>
 
-1. **Estratégico** — visão, direção e decisões de impacto  
-2. **Tático** — organização de áreas e prioridades  
-3. **Gerencial** — supervisão do fluxo diário  
-4. **Operacional** — execução artesanal e atendimento  
+-   :material-crown:{ .lg .middle } __Estratégico__
 
-Esses níveis se adaptam à realidade da empresa: uma mesma pessoa pode ocupar mais de um papel, desde que exista clareza de responsabilidade.
+    ---
+
+    Visão, direção e decisões que moldam a identidade da marca.
+
+-   :material-route:{ .lg .middle } __Tático__
+
+    ---
+
+    Coordena áreas, prioridades e calendários para transformar visão em planos.
+
+-   :material-account-tie-hat:{ .lg .middle } __Gerencial__
+
+    ---
+
+    Supervisão do fluxo diário, garantia de qualidade e comunicação entre áreas.
+
+-   :material-hammer-wrench:{ .lg .middle } __Operacional__
+
+    ---
+
+    Execução artesanal, atendimento e logística; onde a EcoCria ganha vida.
+
+</div>
+
+> Uma mesma pessoa pode ocupar mais de um papel — o importante é haver **clareza explícita** sobre quem decide, quem planeja, quem supervisiona e quem executa.
 
 ---
 
@@ -102,147 +147,132 @@ graph TB
 
 
 ### **1. Estratégico**
-Responsável pela visão, identidade, direcionamento e sustentabilidade da EcoCria.  
-É onde se definem:
 
-- Portfólio principal  
-- Identidade estética  
-- Metas anuais  
-- Parcerias e posicionamento  
-- Caminhos para inovação  
-
----
+!!! info "Função"
+    Define portfólio principal, identidade estética, metas anuais, parcerias e caminhos de inovação. Mantém a EcoCria coerente e desejável.
 
 ### **2. Tático**
-Transforma a estratégia em planos práticos.  
-Inclui as coordenações:
 
-- **Operações & Produção**  
-- **Produto & Catálogo Digital**  
-- **Comercial & Distribuição**  
-- **Financeiro & Compras**  
-- **Pessoas & Cultura**  
-
-É o nível que organiza prioridades, fluxos, calendários e orienta a execução.
-
----
+!!! note "Função"
+    Traduz a visão em planos concretos para Operações & Produção, Produto & Catálogo Digital, Comercial & Distribuição, Financeiro & Compras e Pessoas & Cultura.
 
 ### **3. Gerencial**
-Garante fluidez do dia a dia.  
-Supervisores cuidam de:
 
-- Qualidade  
-- Prazos  
-- Estoque  
-- Catálogo digital  
-- Atendimento e envios  
-- Rotina do ateliê  
-
-Faz a ponte entre planejamento e execução.
-
----
+!!! example "Função"
+    Garante fluidez do dia a dia: qualidade, prazos, estoque, catálogo digital, atendimento e organização do ateliê.
 
 ### **4. Operacional**
-Onde a EcoCria acontece de forma concreta:
 
-- Artesãos & produção manual  
-- Corte, montagem e lixamento  
-- Acabamento & embalagem  
-- Atendimento ao cliente  
-- Feiras e eventos  
-- Logística de envios  
-- Fotografia simples  
-- Atualização de catálogo e preços  
+!!! success "Função"
+    Execução artesanal, acabamento, atendimento, feiras, logística e atualização básica de catálogo/fotos. É onde o toque EcoCria acontece.
 
 ---
 
 ## 📦 Responsabilidades por Área
 
-### 🪵 Operações & Produção
-- Planejar lotes  
-- Garantir fluxo de materiais  
-- Organizar o espaço e ferramentas  
-- Gerenciar ritmo e prazos  
+<div class="grid cards columns-2" markdown>
 
-### 🎨 Produto & Catálogo Digital
-- Criar novos modelos e protótipos  
-- Ajustar produtos existentes  
-- Padronizar medidas, descrições e fotos  
-- Atualizar catálogo, preços e variações  
-- Integrar criação + comercial  
-- Manter registro digital organizado  
+-   :material-saw-blade:{ .lg .middle } __Operações & Produção__
 
-### 🛒 Comercial & Distribuição
-- Atendimento rápido e profissional  
-- Processamento de pedidos  
-- Embalagem e envios  
-- Organização de banca para feiras  
-- Reposição de estoque online  
-- Controle simples de prazos e conversões  
+    ---
 
-### 💰 Financeiro & Compras
-- Registro de entradas e saídas  
-- Controle de custos e margens  
-- Planejamento de reposição  
-- Avaliação de melhores fornecedores  
-- Apoio direto ao CEO nas decisões de preço  
+    - Planejamento de lotes  
+    - Fluxo de materiais e ferramentas  
+    - Cadência e prazos de execução
 
-### ❤️ Pessoas & Cultura
-- Manter clima e ritmo saudável  
-- Zelar pela segurança e organização do ateliê  
-- Criar rituais simples (segunda/quarta/sexta)  
-- Dar clareza das prioridades semanais  
+-   :material-palette:{ .lg .middle } __Produto & Catálogo Digital__
+
+    ---
+
+    - Novos modelos e ajustes  
+    - Medidas, descrições e fotos padrão  
+    - Integração criação ⇄ comercial
+
+-   :material-truck:{ .lg .middle } __Comercial & Distribuição__
+
+    ---
+
+    - Atendimento e conversão  
+    - Embalagens, envios e feiras  
+    - Estoque nos canais digitais
+
+-   :material-currency-usd:{ .lg .middle } __Financeiro & Compras__
+
+    ---
+
+    - Registro de entradas/saídas  
+    - Controle de custos e margens  
+    - Decisões de preço com o CEO
+
+-   :material-heart-pulse:{ .lg .middle } __Pessoas & Cultura__
+
+    ---
+
+    - Ritmo saudável, segurança e organização  
+    - Rituais curtos de alinhamento  
+    - Clareza das prioridades semanais
+
+</div>
 
 ---
 
-## 🗓️ Rotina Inteligente de Gestão (Simples e Leve)
+## 🗓️ Rotina Inteligente de Gestão
 
-### **Segunda — Alinhamento (10–15 min)**
-- 3 prioridades da semana  
-- Revisão rápida de pendências  
-- Distribuição simples de responsabilidades  
-
-### **Quarta — Momento Criativo**
-- Prototipagem  
-- Ajuste de modelos  
-- Atualização de catálogo  
-- Fotografia e descrição de novos produtos  
-
-### **Sexta — Fechamento (10 min)**
-- O que avançou / não avançou  
-- Pontos de melhoria  
-- Preparação para a próxima semana  
-
-### Sábado e Domingo — **Descanso obrigatório**
-Criatividade e qualidade exigem oxigênio.
+| Momento | Duração | Objetivo | Checklist Rápido |
+|---------|---------|----------|-------------------|
+| **Segunda — Alinhamento** | 10–15 min | Dar foco à semana | 3 prioridades, pendências, responsáveis |
+| **Quarta — Momento Criativo** | 1 bloco protegido | Evoluir produtos | Prototipar, ajustar, fotografar e registrar |
+| **Sexta — Fechamento** | 10 min | Aprender e preparar | O que avançou/não avançou, próximos passos |
+| **Sábado & Domingo** | 2 dias | Recarga | Sem operação, somente descanso e oxigênio |
 
 ---
 
 ## 🎯 Como Usar a Estrutura no Dia a Dia
 
-- Cada tarefa no Kanban recebe **apenas 1 etiqueta** correspondente à área.  
-- As decisões do CEO se concentram em:
-  - portfólio,
-  - padrões de qualidade,
-  - parcerias,
-  - foco da semana e do mês.  
-- Supervisão deve ser leve, mas contínua.  
-- Catálogo digital deve ser atualizado sempre que:
-  - nasce um novo produto,  
-  - modelo muda,  
-  - fotos são renovadas,  
-  - preço é ajustado.  
-- A estrutura é **viva**: ajusta conforme a EcoCria cresce.  
+!!! tip "Regras de bolso"
+    - Cada tarefa no Kanban recebe **só 1 etiqueta** da área correspondente.  
+    - O CEO decide portfólio, padrões, parcerias e foco macro.  
+    - Supervisão deve ser leve, mas constante: pequenos check-ins são suficientes.  
+    - Atualize o catálogo sempre que nascer um produto ou houver mudança relevante.  
+    - Trate a estrutura como algo vivo: revise ao menos a cada trimestre.
 
 ---
 
 ## 🌱 Essência da Organização
 
-- **Simplicidade é força.**  
-- **Criatividade é um recurso estratégico.**  
-- **Fluxo organizado sustenta a produtividade.**  
-- **Tecnologia leve (catálogo, fotos, inventário simples) é suficiente para operar bem.**  
-- **Clareza evita retrabalho, tensão e perda de foco.**
+<div class="grid cards columns-2" markdown>
+
+-   :material-feather:{ .lg .middle } __Simplicidade é força__
+
+    ---
+
+    Processos leves reduzem erros e liberam energia criativa.
+
+-   :material-lamp:{ .lg .middle } __Criatividade é estratégica__
+
+    ---
+
+    Ideias novas sustentam identidade, desejo e valor percebido.
+
+-   :material-pipe:{ .lg .middle } __Fluxo organizado__
+
+    ---
+
+    Sem ordem, não existe consistência nem escala artesanal.
+
+-   :material-devices:{ .lg .middle } __Tecnologia leve__
+
+    ---
+
+    Catálogo, inventário e fotos simples bastam quando usados com disciplina.
+
+-   :material-eye-refresh:{ .lg .middle } __Clareza constante__
+
+    ---
+
+    Evita retrabalho, reduz tensão e fortalece confiança entre áreas.
+
+</div>
 
 ---
 
