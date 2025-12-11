@@ -1,158 +1,161 @@
 # 🧭 Guia Prático de Gestão da EcoCria  
 **Como conduzir um ateliê criativo com direção, inovação e leveza**
 
-A EcoCria é uma empresa que depende simultaneamente de **criatividade**, **excelência artesanal**, **organização**, **gestão financeira** e **relações humanas saudáveis**.  
-Este guia apresenta uma forma inteligente de gerir o ateliê sem burocracia, sem rigidez e sem sobrecarga — apenas **o essencial para que o negócio cresça, evolua e permaneça criativo**.
+A EcoCria depende simultaneamente de **criatividade**, **excelência artesanal**, **organização**, **gestão financeira** e **relações humanas saudáveis**.  
+Este guia traduz a gestão em rituais visuais, leves e aplicáveis.
+
+!!! abstract "O que você encontra aqui"
+    - Ritmo semanal claro e sustentável  
+    - Eixos estratégicos para não perder o foco  
+    - Templates simples de reuniões e indicadores  
+    - Cultura viva e caminhos de maturidade
 
 ---
 
-## 🗓️ Ritmo Semanal de Gestão  
-**Segunda a Sexta → Produção, gestão e criação**  
-**Sábado & Domingo → Descanso obrigatório, sem trabalho operacional**
+## 🗓️ Ritmo Semanal de Gestão
 
-A lógica é simples:  
-- **A criatividade depende de oxigênio.**  
-- O descanso não é opcional: ele preserva longevidade, qualidade e clareza estratégica.  
-- O final de semana funciona como “reset mental”, evitando acúmulo de tensão e decisões ruins.
+<div class="grid cards" markdown>
 
----
+-   :material-calendar-week:{ .lg .middle } __Segunda a Sexta__  
+    Produção, gestão e criação convivem. Cada dia tem um foco específico e metas enxutas.
 
-## 🌀 Os 3 Eixos da Gestão da EcoCria
+-   :material-beach:{ .lg .middle } __Sábado & Domingo__  
+    Descanso obrigatório. Sem operação, sem culpa. Criatividade precisa de oxigênio.
 
-A gestão da EcoCria deve sempre equilibrar três pilares:
+</div>
 
-### 1) **Inovação & Criação**
-- Pesquisa de materiais, novos produtos, testagem.  
-- Melhorias estéticas, funcionais e ergonômicas.  
-- Coleta de ideias de clientes e da equipe.  
-- Atualização de portfólio e tendências de mercado artesanal.
-
-### 2) **Estratégia & Direção**
-- Revisão de prioridades da semana e do mês.  
-- Análise leve de indicadores (produção, vendas, satisfação, gargalos).  
-- Definição de foco: o que realmente importa agora?  
-- Decisões de posicionamento, preço e identidade.
-
-### 3) **Operação & Gestão do Ateliê**
-- Organização da produção.  
-- Controle de estoque de materiais.  
-- Processos de acabamento, embalagem e envio.  
-- Atendimento e comunicação com clientes.
-
-> **A EcoCria só funciona no longo prazo quando estes 3 eixos caminham juntos.**
+!!! tip "Por que o descanso é regra?"
+    - Preserva clareza estratégica  
+    - Evita estafa física de um ateliê manual  
+    - Garante espírito criativo ativo
 
 ---
 
-## 🕒 Ciclo Inteligente de Gestão Semanal
+## 🌀 Os 3 Eixos da Gestão
 
-### **Segunda — Alinhamento & Direção**
-- Revisar metas simples da semana (máx. 3 prioridades).  
-- Verificar pendências da produção.  
-- Ajustar capacidade da equipe.  
-- Fechar agenda de entregas.
+<div class="grid cards columns-3" markdown>
 
-### **Terça — Produção Focada**
-- Execução manual sem distrações.  
-- Resolver gargalos técnicos.  
-- Registrar melhorias de processo quando surgirem.
+-   :material-compass:{ .lg .middle } __Inovação & Criação__
 
-### **Quarta — Inovação & Desenvolvimento**
-Dia dedicado a pensar o futuro sem culpa.
+    ---
 
-- Testar novas peças, materiais e designs.  
-- Revisar feedback de clientes.  
-- Prototipar melhorias.  
-- Criar documentação básica (fotos, medidas, referências).
+    - Pesquisa de materiais  
+    - Novos produtos e protótipos  
+    - Feedback de clientes  
+    - Catálogo sempre vivo
 
-> **Quarta é o motor criativo da EcoCria.**
+-   :material-target:{ .lg .middle } __Estratégia & Direção__
 
-### **Quinta — Operação & Organização**
-- Controle de estoque.  
-- Reposição de materiais.  
-- Embalagem, envios, atendimento.  
-- Revisão do nível de qualidade das peças.
+    ---
 
-### **Sexta — Fechamento & Reflexão**
-- Fechar a semana com clareza:
-  - O que avançou?
-  - O que não avançou?
-  - O que aprendemos?
-  - Qual deve ser o foco da próxima semana?
-- Organização física mínima do ateliê.  
-- Registro de melhorias para a próxima iteração.
+    - Prioridades semanais/mensais  
+    - Indicadores essenciais  
+    - Definição de preço e posicionamento  
+    - Decisões de identidade
+
+-   :material-cube:{ .lg .middle } __Operação & Ateliê__
+
+    ---
+
+    - Fluxo produtivo  
+    - Estoque e compras  
+    - Acabamento e envios  
+    - Atendimento e logística
+
+</div>
+
+> **Os três eixos precisam caminhar juntos.** Negligenciar qualquer um deles derruba o restante.
 
 ---
 
-## 🧩 Reuniões Inteligentes (Simples e Úteis)
+## 🕒 Ciclo Inteligente da Semana
 
-### 1) **Reunião Semanal (Segunda, 20 min)**
-- Revisar prioridades.  
-- Definir responsabilidades individuais.  
-- Identificar gargalos antecipadamente.  
-- Ajustar metas de produção.
+| Dia | Foco | Rotinas-Chave |
+|-----|------|---------------|
+| **Segunda** | Direção & alinhamento | Metas (máx. 3), pendências, capacidade, agenda |
+| **Terça** | Produção profunda | Execução sem interrupção, resolução de gargalos |
+| **Quarta** | Inovação & documentação | Protótipos, feedback, fotos, ajustes de catálogo |
+| **Quinta** | Operação & organização | Estoque, reposição, embalagens, controle de qualidade |
+| **Sexta** | Fechamento inteligente | O que avançou? O que trava? Aprendizados? Próximo foco |
 
-### 2) **Reunião Criativa (Quarta, 30–40 min)**
-- Avaliar protótipos.  
-- Analisar ideias novas.  
-- Validar melhorias de produtos.  
-- Registrar avanços criativos.
-
-### 3) **Reunião de Fechamento (Sexta, 15 min)**
-- Ver o que funcionou e o que não funcionou.  
-- Registrar lições e oportunidades.  
-- Deixar tudo claro para a semana seguinte.
-
-> Sem reuniões longas. Sem burocracia.  
-> **Só conversas rápidas e inteligentes.**
+!!! note "Quarta-feira é o motor criativo"
+    Zero culpa para experimentar. Sem inovação, o ateliê para de evoluir.
 
 ---
 
-## 📈 Indicadores Simples para Guiar a Gestão
-Você não precisa de um BI gigantesco. Apenas quatro indicadores mantêm a EcoCria no rumo:
+## 🧩 Reuniões Inteligentes
 
-### 1) **Fluxo Criativo**
-- Nº de novas ideias/protótipos por mês.
+??? info "1) Segunda · Check de Arranque (20 min)"
+    - Revisa prioridades e responsáveis  
+    - Antecipação de gargalos  
+    - Ajuste fino das metas da semana
 
-### 2) **Qualidade Operacional**
-- % de peças refeitas ou retrabalho.
+??? example "2) Quarta · Oficina Criativa (30–40 min)"
+    - Avaliação de protótipos  
+    - Decisões estéticas  
+    - Registro visual e técnico
 
-### 3) **Eficiência de Produção**
-- Peças por semana / capacidade real do time.
+??? success "3) Sexta · Fechamento Essencial (15 min)"
+    - O que funcionou / não funcionou  
+    - Aprendizados compartilhados  
+    - Preparação mental para a próxima semana
 
-### 4) **Resultados Comerciais**
-- Receita semanal e mensal.  
-- Produtos mais vendidos.  
+> Sem reuniões longas ou formais: apenas checkpoints rápidos e objetivos.
+
+---
+
+## 📈 Indicadores Essenciais
+
+<div class="grid cards columns-2" markdown>
+
+-   :material-lightbulb-on:{ .lg .middle } __Fluxo Criativo__
+
+    ---
+
+    Nº de novas ideias/protótipos por mês. Serve para sentir a pulsação criativa.
+
+-   :material-shield-check:{ .lg .middle } __Qualidade Operacional__
+
+    ---
+
+    % de retrabalho ou peças refeitas. Se subir, mexa no processo imediatamente.
+
+-   :material-speedometer:{ .lg .middle } __Eficiência de Produção__
+
+    ---
+
+    Peças concluídas / capacidade real. Mantém metas conectadas à realidade.
+
+-   :material-chart-line:{ .lg .middle } __Resultados Comerciais__
+
+    ---
+
+    Receita semanal/mensal + produtos mais vendidos. Decide promoções e foco comercial.
+
+</div>
 
 ---
 
 ## 🪴 Cultura EcoCria de Trabalho
 
-### **1. Simplicidade é estratégia**
-Se algo pode ser reduzido, reduzimos.  
-O excesso mata a criatividade e aumenta erros.
-
-### **2. Ritmo sustentável**
-Produção não é corrida; é cultivo.
-
-### **3. Criar é tão importante quanto produzir**
-Inovação não é luxo, é sobrevivência da marca.
-
-### **4. Qualidade acima de tudo**
-Menos peças, mais valor.
-
-### **5. Clareza nas responsabilidades**
-Cada pessoa sabe o que precisa fazer, e por quê.
+| Princípio | Como enxergamos |
+|-----------|-----------------|
+| **Simplicidade é estratégia** | Tudo que puder ser reduzido, é reduzido. |
+| **Ritmo sustentável** | Produção é cultivo: exige cuidados constantes. |
+| **Criar = Produzir** | Inovação não é luxo, é sobrevivência da marca. |
+| **Qualidade acima de tudo** | Menos peças, mais valor percebido. |
+| **Clareza radical** | Cada pessoa sabe “o quê, por quê e até quando”. |
 
 ---
 
-## 🛤️ O Caminho de Maturidade da EcoCria
+## 🛤️ Caminho de Maturidade da EcoCria
 
-1. **Organização mínima** → tudo no lugar, prioridades claras.  
-2. **Processos simples** → checklists, padrões de qualidade.  
-3. **Ritmo criativo ativo** → quarta-feira como hub de inovação.  
-4. **Estratégia viva** → revisões semanais e mensais.  
-5. **Marca forte** → produtos com propósito, consistência e estética.  
-6. **Crescimento sustentável** → equipe leve, lucro saudável.
+1. :material-checkbox-blank-circle-outline: **Organização mínima** → prioridades visíveis, espaço em ordem  
+2. :material-checkbox-blank-circle-outline: **Processos simples** → checklists e padrões de qualidade  
+3. :material-checkbox-blank-circle-outline: **Ritmo criativo ativo** → quartas protegidas para experimentar  
+4. :material-checkbox-blank-circle-outline: **Estratégia viva** → revisões semanais e mensais com dados enxutos  
+5. :material-checkbox-blank-circle-outline: **Marca forte** → produtos com propósito claro e consistência visual  
+6. :material-checkbox-marked-circle: **Crescimento sustentável** → equipe leve, lucro saudável, cultura preservada
 
 ---
 
