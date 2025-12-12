@@ -1,216 +1,99 @@
-# 📚 Catálogo Vivo de Técnicas & Materiais
+# 📚 Técnicas & Materiais
 
-O Catálogo Vivo da EcoCria é um ecossistema de referências que apoia criação, técnica e identidade estética do ateliê.  
-Ele não é um manual rígido, e sim um espaço de registro, expansão e inspiração contínua.
+Referência técnica do ateliê. Consulte para escolher materiais, técnicas e processos.
 
-!!! info "Importante"
-    - Este catálogo existe para **estimular**, não limitar.  
-    - Não é um padrão obrigatório.  
-    - Não serve para engessar o estilo das peças.  
-    - Cresce organicamente conforme novos aprendizados surgem.
-
-A regra é simples:  
-**O catálogo vive com a EcoCria — nunca a restringe.**
+> **Regra:** Este catálogo cresce com a EcoCria — nunca a restringe.
 
 ---
 
-# 🪵 1. Materiais EcoCria
+## 🪵 1. Materiais
 
-### Madeiras principais
+### Madeiras Principais
 
-<div class="grid cards columns-2" markdown>
+| Madeira | Características | Uso ideal |
+|---------|----------------|----------|
+| **Cedro** | Leve, aromático | Kuripes, tepis, amuletos delicados |
+| **Roxinho** | Densa, cor vibrante | Peças assinatura, premium |
+| **Peroba / Ipê / Cumaru** | Alta resistência | Peças estruturais |
+| **Reaproveitadas** | História e aroma | Sustentabilidade, peças únicas |
 
--   :material-leaf:{ .lg .middle } **Cedro**
+### Elementos Complementares
 
-    ---
+| Tipo | Aplicação |
+|------|----------|
+| **Apliques decorativos** | Símbolos, padrões gráficos |
+| **Inserções com textura** | Resina, terra, areia, pedra — contraste visual |
 
-    Leve, aromático e ideal para kuripes, tepis e amuletos delicados.
+### Acabamentos
 
--   :material-palette:{ .lg .middle } **Roxinho**
-
-    ---
-
-    Madeira densa, com cor vibrante e presença premium em peças assinatura.
-
--   :material-pillar:{ .lg .middle } **Peroba / Ipê / Cumaru**
-
-    ---
-
-    Usadas em peças estruturais, com alta resistência e durabilidade.
-
--   :material-recycle:{ .lg .middle } **Madeiras reaproveitadas/aromáticas**
-
-    ---
-
-    Sustentabilidade viva: reaproveitamos materiais com história e aroma natural.
-
-</div>
-
-### Pedras & elementos
-
-<div class="grid cards columns-2" markdown>
-
--   :material-shape-outline:{ .lg .middle } **Apliques decorativos**
-
-    ---
-
-    Símbolos, padrões gráficos e elementos naturais integrados às peças.
-
--   :material-texture:{ .lg .middle } **Inserções com textura**
-
-    ---
-
-    Resina, terra, areia ou pedra criam contraste visual e sensorial.
-
-</div>
-
-### Insumos de acabamento
-
-<div class="grid cards columns-2" markdown>
-
--   :material-water:{ .lg .middle } **Óleo de peroba (e outros naturais)**
-
-    ---
-
-    Hidrata, protege e destaca o veio da madeira com perfume leve.
-
--   :material-spray:{ .lg .middle } **Acabamento fosco EcoCria**
-
-    ---
-
-    Padrão visual da marca, combinando elegância e toque artesanal.
-
--   :material-glass-stange:{ .lg .middle } **Resinas pontuais**
-
-    ---
-
-    Usadas apenas onde é preciso preencher ou criar detalhe brilhante.
-
-</div>
+| Insumo | Função |
+|--------|--------|
+| **Óleo de peroba** | Hidrata, protege, destaca veio |
+| **Acabamento fosco EcoCria** | Padrão visual da marca |
+| **Resinas pontuais** | Preenchimento ou detalhe brilhante |
 
 ---
 
-# ⚙️ 2. Técnicas EcoCria
+## ⚙️ 2. Técnicas
 
-| Técnica | Onde é aplicada | Destaques |
-|---------|----------------|-----------|
-| **CNC Router** | Estrutura, repetição, encaixes | Fluxo digital (desenho → CAM → CNC → acabamento), passes progressivos, controle de vibração. |
-| **Laser CO₂ / Fiber** | Gravação e cortes finos | Símbolos/padrões geométricos, marcação da identidade EcoCria, criação de gabaritos. |
-| **Esculpimento Manual** | Refinamento pós-máquina | Ergonomia, curvas e encaixes anatômicos, entalhe em áreas que a máquina não alcança. |
-| **Machetaria & Inlay** | Detalhes e contraste | Inserção de pedras/resinas/madeiras contrastantes, narrativa visual. |
-| **Acabamento EcoCria** | Finalização | Lixamento em múltiplas etapas, óleos naturais, polimento orgânico, tons alinhados à marca. |
-
----
-
-# 🛠️ 3. Processos de Produção
-
-## 3.1 Fluxo Geral EcoCria
-
-| Etapa | Foco | Resultado |
-|-------|------|-----------|
-| Conceito | Uso, contexto e estética (função + natureza) | Brief simples |
-| Desenho | Estética minimalista, poucos traços | Base visual |
-| Digitalização | Modelos 2D/3D + rotas otimizadas | Arquivo pronto |
-| Pré-corte | CNC ou laser conforme a peça | Peças brutas |
-| Esculpimento | Refinamento manual, ergonomia | Toque autoral |
-| Machetaria | Detalhes visuais e contraste | Identidade forte |
-| Acabamento | Óleos, resinas, polimento | Proteção + textura |
-| Fotografia & catálogo | Identidade EcoCria | Registro para venda |
-| Divulgação | Feiras, redes, vendas online | Produtos no mundo |
+| Técnica | Aplicação | Notas |
+|---------|-----------|-------|
+| **CNC Router** | Estrutura, repetição, encaixes | Desenho → CAM → CNC → acabamento |
+| **Laser CO₂/Fiber** | Gravação, cortes finos | Símbolos, gabaritos, marcação |
+| **Esculpimento Manual** | Refinamento pós-máquina | Ergonomia, curvas, encaixes anatômicos |
+| **Machetaria/Inlay** | Detalhes e contraste | Inserção de pedras, resinas, madeiras |
+| **Acabamento** | Finalização | Lixamento progressivo + óleos naturais |
 
 ---
 
-# 🧪 4. Laboratório de Inovação EcoCria
+## 🛠️ 3. Fluxo de Produção
 
-## 4.1 Técnicas emergentes observadas na EcoCria
-
-<div class="grid cards columns-2" markdown>
-
--   :material-forest:{ .lg .middle } **Formas & referências**
-
-    ---
-
-    Inspiração na natureza + repertório contemporâneo para criar geometria viva.
-
--   :material-layers:{ .lg .middle } **Camadas de cor & acabamento**
-
-    ---
-
-    Sobreposições de cor e textura para gerar profundidade e contraste.
-
--   :material-invert-colors:{ .lg .middle } **Mix madeira + símbolos + resina mínima**
-
-    ---
-
-    Equilíbrio entre elementos naturais e recursos visuais leves.
-
--   :material-book-open-page-variant:{ .lg .middle } **Narrativa EcoCria**
-
-    ---
-
-    Produtos guiados por uso diário, estética minimalista e conexão com a natureza.
-
-</div>
-
-## 4.2 Potenciais para expansão
-
-<div class="grid cards columns-2" markdown>
-
--   :material-view-grid-plus:{ .lg .middle } **Peças modulares**  
-    Conjuntos componíveis que se adaptam a diferentes ambientes.
-
--   :material-gesture-double-tap:{ .lg .middle } **Arte interativa**  
-    Encaixes, movimento e uso de ímãs quando fizer sentido funcional.
-
--   :material-weather-sunny:{ .lg .middle } **Inspiração Cerrado**  
-    Amuletos e objetos que traduzem flora e paisagens brasileiras.
-
--   :material-signature:{ .lg .middle } **Assinaturas visuais**  
-    Padrões recorrentes, texturas e proporções reconhecíveis da marca.
-
-</div>
+| Etapa | O que fazer | Resultado |
+|-------|-------------|-----------|
+| 1. Conceito | Definir uso, contexto, estética | Brief simples |
+| 2. Desenho | Traços minimalistas | Base visual |
+| 3. Digitalização | Modelos 2D/3D, rotas | Arquivo pronto |
+| 4. Pré-corte | CNC ou laser | Peças brutas |
+| 5. Esculpimento | Refinamento manual | Toque autoral |
+| 6. Machetaria | Detalhes visuais | Identidade forte |
+| 7. Acabamento | Óleos, resinas, polimento | Proteção + textura |
+| 8. Fotografia | Fotos padrão EcoCria | Registro para venda |
+| 9. Divulgação | Feiras, redes, online | Produto no mundo |
 
 ---
 
-# 🧭 5. Filosofia EcoCria
+## 🧪 4. Inovação
 
-<div class="grid cards columns-2" markdown>
+### Direções em Exploração
 
--   :material-pen:{ .lg .middle } **Sofisticação simples**  
-    Poucos traços, máximo impacto visual.
+| Área | Descrição |
+|------|-----------|
+| **Formas naturais** | Inspiração na natureza + geometria viva |
+| **Camadas de acabamento** | Sobreposições de cor e textura |
+| **Mix madeira + resina mínima** | Equilíbrio entre natural e visual |
 
--   :material-tree-outline:{ .lg .middle } **Madeira viva**  
-    Textura, história e origem importam em cada peça.
+### Potenciais para Expansão
 
--   :material-chip:{ .lg .middle } **Tecnologia como extensão**  
-    CNC e laser amplificam a mão artesanal, não a substituem.
-
--   :material-seal-variant:{ .lg .middle } **Excelência no acabamento**  
-    Finalização impecável é identidade da marca.
-
--   :material-compass-outline:{ .lg .middle } **Criação com propósito**  
-    Cada peça nasce com significado e função claros.
-
-</div>
+| Ideia | Aplicação |
+|-------|-----------|
+| **Peças modulares** | Conjuntos componíveis |
+| **Arte interativa** | Encaixes, movimento, ímãs |
+| **Inspiração Cerrado** | Flora e paisagens brasileiras |
+| **Assinaturas visuais** | Padrões e proporções reconhecíveis |
 
 ---
 
-# 🧰 6. Como Usar o Catálogo Vivo
+## 🧰 5. Como Manter o Catálogo Vivo
 
-!!! tip "Princípio fundamental"
-    O catálogo existe para apoiar a criação, não para dizer como criar.
-
-Boas práticas:
-
-- Cada nova peça → registrar técnica, material e aprendizados.  
-- Cada nova máquina → registrar capacidades e possibilidades.  
-- Cada erro → virar insight para futuras versões.  
-- Cada artesão → contribui com seu próprio estilo e descoberta.  
-
-O catálogo cresce como **uma mente coletiva da EcoCria**, sempre em movimento.
+| Evento | Ação |
+|--------|------|
+| Nova peça criada | Registrar técnica, material, aprendizados |
+| Nova máquina/ferramenta | Registrar capacidades e possibilidades |
+| Erro cometido | Documentar para evitar repetição |
+| Descoberta de artesão | Incorporar ao catálogo |
 
 ---
 
 <p align="center">
-🌿 <strong>EcoCria</strong> — Técnica a serviço da criatividade, não o contrário.
+🌿 <strong>EcoCria</strong> — Técnica a serviço da criatividade.
 </p>

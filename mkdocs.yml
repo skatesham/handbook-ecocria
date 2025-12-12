@@ -59,11 +59,10 @@ nav:
   - "🏠 Início": index.md
   - "🌱 Novos Integrantes": novos-integrantes.md
   - "📚 Técnicas & Materiais": skill.md
-  - "🧭 Gestão da EcoCria": gestao.md
+  - "🧭 Gestão": gestao.md
   - "🔥 Central de Inteligência": central.md
-  - "🚨 Em Crise": crise.md
-  - "⚠️ Risco": risk.md
-  - "🏢 Estrutura Organizacional": estrutura.md
+  - "🚨 Crises & Riscos": crise.md
+  - "🏢 Estrutura": estrutura.md
   
 repo_url: https://github.com/skatesham/handbook-ecocria
 repo_name: handbook-ecocria

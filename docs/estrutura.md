@@ -1,78 +1,23 @@
-# 🌿 EcoCria — Estrutura Organizacional
+# 🏛️ Estrutura Organizacional
 
-Esta página apresenta a estrutura oficial da EcoCria, construída para ser leve, clara e prática.
+Estrutura oficial da EcoCria — leve, clara e prática.
 
-!!! abstract "Para que serve esta estrutura?"
-    - Garantir **criatividade ativa** sem perder o controle operacional  
-    - Manter **catálogo e vendas** em evolução constante  
-    - Preservar **sustentabilidade financeira e cultural**  
-    - Dar clareza de **papéis e responsabilidades**
-
-<div class="grid cards" markdown>
-
--   :material-sprout:{ .lg .middle } __Criatividade Ativa__
-
-    ---
-
-    Fluxo contínuo de ideias, protótipos e atualização estética.
-
--   :material-cog-play:{ .lg .middle } __Operação Organizada__
-
-    ---
-
-    Produção, estoque e logística com cadência simples e repetível.
-
--   :material-storefront:{ .lg .middle } __Catálogo Vivo__
-
-    ---
-
-    Produtos, preços e fotos atualizados em todos os canais.
-
--   :material-heart:{ .lg .middle } __Cultura Saudável__
-
-    ---
-
-    Relacionamentos íntegros, ritmo sustentável e visão comum.
-
-</div>
+> Uma pessoa pode ocupar vários papéis. O importante é **clareza** sobre quem decide, planeja, supervisiona e executa.
 
 ---
 
-## 🧱 Visão Geral da Estrutura
+## 🧱 Níveis
 
-<div class="grid cards columns-2" markdown>
-
--   :material-crown:{ .lg .middle } __Estratégico__
-
-    ---
-
-    Visão, direção e decisões que moldam a identidade da marca.
-
--   :material-route:{ .lg .middle } __Tático__
-
-    ---
-
-    Coordena áreas, prioridades e calendários para transformar visão em planos.
-
--   :material-account-tie-hat:{ .lg .middle } __Gerencial__
-
-    ---
-
-    Supervisão do fluxo diário, garantia de qualidade e comunicação entre áreas.
-
--   :material-hammer-wrench:{ .lg .middle } __Operacional__
-
-    ---
-
-    Execução artesanal, atendimento e logística; onde a EcoCria ganha vida.
-
-</div>
-
-> Uma mesma pessoa pode ocupar mais de um papel — o importante é haver **clareza explícita** sobre quem decide, quem planeja, quem supervisiona e quem executa.
+| Nível | Função |
+|-------|--------|
+| **Estratégico** | Visão, identidade, metas anuais, parcerias |
+| **Tático** | Transforma visão em planos por área |
+| **Gerencial** | Supervisão diária, qualidade, comunicação |
+| **Operacional** | Execução artesanal, atendimento, logística |
 
 ---
 
-## 🏛️ Níveis da Estrutura
+## 📊 Organograma
 
 ```mermaid
 graph TB
@@ -146,133 +91,38 @@ graph TB
 ```
 
 
-### **1. Estratégico**
-
-!!! info "Função"
-    Define portfólio principal, identidade estética, metas anuais, parcerias e caminhos de inovação. Mantém a EcoCria coerente e desejável.
-
-### **2. Tático**
-
-!!! note "Função"
-    Traduz a visão em planos concretos para Operações & Produção, Produto & Catálogo Digital, Comercial & Distribuição, Financeiro & Compras e Pessoas & Cultura.
-
-### **3. Gerencial**
-
-!!! example "Função"
-    Garante fluidez do dia a dia: qualidade, prazos, estoque, catálogo digital, atendimento e organização do ateliê.
-
-### **4. Operacional**
-
-!!! success "Função"
-    Execução artesanal, acabamento, atendimento, feiras, logística e atualização básica de catálogo/fotos. É onde o toque EcoCria acontece.
-
 ---
 
 ## 📦 Responsabilidades por Área
 
-<div class="grid cards columns-2" markdown>
-
--   :material-saw-blade:{ .lg .middle } __Operações & Produção__
-
-    ---
-
-    - Planejamento de lotes  
-    - Fluxo de materiais e ferramentas  
-    - Cadência e prazos de execução
-
--   :material-palette:{ .lg .middle } __Produto & Catálogo Digital__
-
-    ---
-
-    - Novos modelos e ajustes  
-    - Medidas, descrições e fotos padrão  
-    - Integração criação ⇄ comercial
-
--   :material-truck:{ .lg .middle } __Comercial & Distribuição__
-
-    ---
-
-    - Atendimento e conversão  
-    - Embalagens, envios e feiras  
-    - Estoque nos canais digitais
-
--   :material-currency-usd:{ .lg .middle } __Financeiro & Compras__
-
-    ---
-
-    - Registro de entradas/saídas  
-    - Controle de custos e margens  
-    - Decisões de preço com o CEO
-
--   :material-heart-pulse:{ .lg .middle } __Pessoas & Cultura__
-
-    ---
-
-    - Ritmo saudável, segurança e organização  
-    - Rituais curtos de alinhamento  
-    - Clareza das prioridades semanais
-
-</div>
+| Área | Responsabilidades |
+|------|-------------------|
+| **Operações & Produção** | Lotes, materiais, ferramentas, prazos |
+| **Produto & Catálogo** | Novos modelos, fotos, descrições, preços |
+| **Comercial** | Atendimento, envios, feiras, estoque digital |
+| **Financeiro** | Entradas/saídas, custos, margens, preços |
+| **Pessoas & Cultura** | Ritmo, segurança, alinhamento, prioridades |
 
 ---
 
-## 🗓️ Rotina Inteligente de Gestão
+## 🗓️ Rotina Semanal
 
-| Momento | Duração | Objetivo | Checklist Rápido |
-|---------|---------|----------|-------------------|
-| **Segunda — Alinhamento** | 10–15 min | Dar foco à semana | 3 prioridades, pendências, responsáveis |
-| **Quarta — Momento Criativo** | 1 bloco protegido | Evoluir produtos | Prototipar, ajustar, fotografar e registrar |
-| **Sexta — Fechamento** | 10 min | Aprender e preparar | O que avançou/não avançou, próximos passos |
-| **Sábado & Domingo** | 2 dias | Recarga | Sem operação, somente descanso e oxigênio |
-
----
-
-## 🎯 Como Usar a Estrutura no Dia a Dia
-
-!!! tip "Regras de bolso"
-    - Cada tarefa no Kanban recebe **só 1 etiqueta** da área correspondente.  
-    - O CEO decide portfólio, padrões, parcerias e foco macro.  
-    - Supervisão deve ser leve, mas constante: pequenos check-ins são suficientes.  
-    - Atualize o catálogo sempre que nascer um produto ou houver mudança relevante.  
-    - Trate a estrutura como algo vivo: revise ao menos a cada trimestre.
+| Dia | Duração | Foco |
+|-----|---------|------|
+| **Segunda** | 15 min | Alinhamento: 3 prioridades, responsáveis |
+| **Quarta** | 1 bloco | Criativo: prototipar, fotografar, registrar |
+| **Sexta** | 10 min | Fechamento: o que avançou, próximos passos |
+| **Fim de semana** | — | Descanso obrigatório |
 
 ---
 
-## 🌱 Essência da Organização
+## 🎯 Regras de Uso
 
-<div class="grid cards columns-2" markdown>
-
--   :material-feather:{ .lg .middle } __Simplicidade é força__
-
-    ---
-
-    Processos leves reduzem erros e liberam energia criativa.
-
--   :material-lamp:{ .lg .middle } __Criatividade é estratégica__
-
-    ---
-
-    Ideias novas sustentam identidade, desejo e valor percebido.
-
--   :material-pipe:{ .lg .middle } __Fluxo organizado__
-
-    ---
-
-    Sem ordem, não existe consistência nem escala artesanal.
-
--   :material-devices:{ .lg .middle } __Tecnologia leve__
-
-    ---
-
-    Catálogo, inventário e fotos simples bastam quando usados com disciplina.
-
--   :material-eye-refresh:{ .lg .middle } __Clareza constante__
-
-    ---
-
-    Evita retrabalho, reduz tensão e fortalece confiança entre áreas.
-
-</div>
+- Cada tarefa no Kanban = 1 etiqueta de área
+- CEO decide portfólio, padrões, foco macro
+- Supervisão leve com check-ins curtos
+- Atualizar catálogo a cada novo produto
+- Revisar estrutura a cada trimestre
 
 ---
 

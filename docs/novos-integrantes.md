@@ -1,32 +1,21 @@
-# 🌱 Novos Integrantes  
-Guia de aprendizagem e crescimento dentro da EcoCria
+# 🌱 Novos Integrantes
 
-Este guia apresenta as etapas de desenvolvimento de um novo integrante da EcoCria — desde zero experiência até autonomia criativa. A formação é prática, progressiva e respeita o ritmo individual, incluindo trilhas manuais, CNC, laser e digital.
-
-!!! abstract "Como navegar"
-    - **Leia o mapa de evolução** para entender todas as etapas.  
-    - **Abra os painéis detalhados** para ver foco, práticas e checkpoints de cada fase.  
-    - **Explore as trilhas opcionais** conforme seu perfil (operação, digital, feiras).  
-    - **Use o checklist final** para acelerar seu crescimento.
+Guia de evolução do artesão EcoCria — do primeiro dia à autonomia criativa.
 
 ---
 
-## 🎋 Filosofia de Aprendizagem
+## 🎋 Princípios de Aprendizagem
 
-!!! info "Princípios EcoCria"
-    - Aprender fazendo, com calma e precisão  
-    - Segurança sempre em primeiro lugar  
-    - Criatividade surgindo da prática, não da pressa  
-    - Autonomia com responsabilidade  
-    - Cultura leve e colaborativa  
+- **Aprender fazendo** — calma e precisão
+- **Segurança primeiro** — EPIs sempre
+- **Prática antes de pressa** — criatividade vem com domínio
+- **Autonomia com responsabilidade**  
 
 ---
 
-## 🪜 Etapas do Desenvolvimento do Artesão
+## 🪜 Etapas de Evolução
 
-As fases abaixo formam um caminho claro de evolução dentro da EcoCria.
-
-### 🧭 Mapa rápido de evolução
+### Mapa de Progressão
 
 | Etapa | Foco | Sinais de avanço |
 |-------|------|------------------|
@@ -41,146 +30,76 @@ As fases abaixo formam um caminho claro de evolução dentro da EcoCria.
 
 ---
 
-??? tip "1. Ambientação Inicial"
-    **Objetivo**  
-    Entender o funcionamento do ateliê e a cultura da EcoCria.
+### Detalhamento por Etapa
 
-    **Aprendizagens práticas**
-
-    - Rotina semanal (segunda alinhamento • quarta criativa • sexta fechamento)  
-    - Onde ficam materiais, ferramentas e EPIs  
-    - Regras básicas de segurança  
-    - Como manter organização e fluxo do espaço  
+??? tip "1. Ambientação"
+    - Rotina: segunda (alinhamento) • quarta (criativa) • sexta (fechamento)
+    - Localização de materiais, ferramentas e EPIs
+    - Regras de segurança e organização do espaço
 
 ??? tip "2. Fundamentos da Madeira"
-    **Objetivo**  
-    Criar familiaridade com madeira, ferramentas simples e acabamento básico.
-
-    **Bases essenciais**
-
-    - Tipos de madeira e seus comportamentos  
-    - Corte simples  
-    - Lixamento inicial  
-    - Acabamento leve (óleo/cera)  
-    - Como segurar ferramentas com precisão e segurança  
+    - Tipos de madeira e comportamentos
+    - Corte simples e lixamento inicial
+    - Acabamento básico (óleo/cera)
+    - Postura e manuseio seguro
 
 ??? tip "3. Produção Assistida"
-    **Objetivo**  
-    Participar da produção real com supervisão próxima.
+    - Executar etapas simples com supervisão
+    - Precisão: encaixes, simetria, proporção
+    - Inspeção básica de qualidade
 
-    **Habilidades desenvolvidas**
+??? tip "4. Domínio das Ferramentas"
+    - Ferramentas elétricas leves
+    - Lixamento avançado e acabamento em camadas
+    - Ajustes finos e ergonomia
 
-    - Executar etapas simples de peças  
-    - Noções de precisão (encaixes, simetria, proporção)  
-    - Correção de técnica e postura  
-    - Inspeção simples de qualidade  
-
-??? tip "4. Domínio Progressivo das Ferramentas"
-    **Objetivo**  
-    Desenvolver técnica manual e consistência estética.
-
-    **Evoluções**
-
-    - Ferramentas elétricas leves  
-    - Lixamento avançado  
-    - Acabamento em camadas  
-    - Noções de ergonomia  
-    - Ajustes finos nas peças  
-
-??? note "5. Introdução ao CNC & Laser (opcional)"
-    **Importante**  
-    Não é obrigatório dominar CNC/laser. É uma trilha para quem tem interesse técnico.
-
-    **Conteúdos iniciais**
-
-    - Preparação de arquivos simples  
-    - Materiais adequados  
-    - Profundidade, velocidade e queima  
-    - Acabamento pós-máquina  
+??? note "5. CNC & Laser (opcional)"
+    Trilha técnica para interessados:
+    
+    - Preparação de arquivos simples
+    - Parâmetros: profundidade, velocidade, queima
+    - Acabamento pós-máquina
 
 ??? tip "6. Produção Independente"
-    **Objetivo**  
-    Produzir peças completas com pouca supervisão.
+    - Planejar e executar peças completas
+    - Autocontrole de qualidade
+    - Cuidado com ferramentas e sugestões de melhoria
 
-    **Responsabilidades**
-
-    - Planejar etapas da peça  
-    - Realizar autocontrole de qualidade  
-    - Cuidar das ferramentas  
-    - Sugerir melhorias no processo  
-
-??? info "7. Criatividade Guiada"
-    **Objetivo**  
-    Participar da inovação da EcoCria com responsabilidade.
-
-    **Atividades**
-
-    - Ajustar modelos existentes  
-    - Testar materiais e variações estéticas  
-    - Participar do dia criativo (quarta-feira)  
-    - Sugerir melhorias de ergonomia e acabamento  
+??? success "7. Criatividade Guiada"
+    - Ajustar modelos existentes
+    - Testar materiais e variações
+    - Participar do dia criativo (quarta)
 
 ??? success "8. Autonomia Criativa"
-    **Nível Avançado**  
-    O artesão se torna criador e referência técnica.
-
-    **Competências**
-
-    - Criar protótipos iniciais  
-    - Integrar CNC/laser quando útil  
-    - Desenvolver soluções próprias  
-    - Ajudar a treinar novos integrantes  
-    - Preservar identidade EcoCria em tudo que produz  
+    Artesão se torna criador e referência:
+    
+    - Criar protótipos
+    - Integrar tecnologia quando útil
+    - Treinar novos integrantes
+    - Preservar identidade EcoCria  
 
 ---
 
-## 🧩 Trilhas Paralelas (opcionais conforme perfil)
+## 🧩 Trilhas Paralelas (opcionais)
 
-<div class="grid cards" markdown>
-
--   :material-warehouse:{ .lg .middle } __Operação do Ateliê__
-
-    ---
-
-    - Organização de materiais  
-    - Controle simples de estoque  
-    - Preparação de lotes  
-    - Manutenção leve de ferramentas  
-
--   :material-camera-burst:{ .lg .middle } __Linha Digital__
-
-    ---
-
-    - Fotografar produtos  
-    - Atualizar catálogo digital  
-    - Padronizar descrições e medidas  
-
--   :material-store-check:{ .lg .middle } __Feiras & Clientes__
-
-    ---
-
-    - Montagem da banca  
-    - Apresentação das peças  
-    - Conversa com clientes  
-    - Coleta de feedback real  
-
-</div>
+| Trilha | Atividades |
+|--------|-----------|
+| **Operação** | Organização de materiais, controle de estoque, manutenção de ferramentas |
+| **Digital** | Fotografar produtos, atualizar catálogo, padronizar descrições |
+| **Feiras** | Montagem de banca, apresentação de peças, coleta de feedback |
 
 ---
 
-## 🚀 Como Crescer Mais Rápido na EcoCria
+## 🚀 Dicas para Crescer Rápido
 
-!!! quote "Princípios de crescimento"
-    - Perguntar sempre  
-    - Trabalhar com calma e precisão  
-    - Observar os mais experientes  
-    - Registrar aprendizados  
-    - Cuidar da madeira, do espaço e das ferramentas  
-    - Participar do dia criativo  
-    - Buscar responsabilidade e autonomia  
+1. **Perguntar sempre** — dúvida não esclarecida vira erro
+2. **Observar os experientes** — técnica se aprende vendo
+3. **Registrar aprendizados** — memória coletiva
+4. **Participar da quarta criativa** — acelera evolução
+5. **Cuidar do espaço e ferramentas** — mostra responsabilidade
 
 ---
 
 <p align="center">
-🌱 <strong>EcoCria</strong> — Crescemos criando. Aprendemos fazendo. Evoluímos juntos.
+🌱 <strong>EcoCria</strong> — Crescemos criando. Aprendemos fazendo.
 </p>
